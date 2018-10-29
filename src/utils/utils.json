@@ -1,0 +1,231 @@
+{
+    "recipes": [
+        {
+            "title": "Crunchwrap Supreme",
+            "image": "https://images2.westword.com/imager/taco-bells-employees-weigh-in-on-the-beef/u/original/6455992/taco_bell_crunchwrap_supreme.jpg",
+            "ingredients": [
+                {
+                    "name": "Ground Beef",
+                    "quantity": 1,
+                    "unit": "Kgs"
+                },
+                {
+                    "name": "Chilli powder",
+                    "quantity": 1,
+                    "unit": "Tsp"
+                },
+                {
+                    "name": "Ground Paprika",
+                    "quantity": 1.5,
+                    "unit": "Tsp"
+                },
+                {
+                    "name": "Ground Cumin",
+                    "quantity": 0.5,
+                    "unit": "Tsp"
+                },
+                {
+                    "name": "Flour Tortillas, large",
+                    "quantity": 8,
+                    "unit": null
+                },
+                {
+                    "name": "Nacho Cheese Sauce",
+                    "quantity": 0.5,
+                    "unit": "Cups"
+                },
+                {
+                    "name": "Tostada Shells",
+                    "quantity": 4,
+                    "unit": null
+                },
+                {
+                    "name": "Sour Cream",
+                    "quantity": 1,
+                    "unit": "Cups"
+                },
+                {
+                    "name": "Shredded Lettuce",
+                    "quantity": 2,
+                    "unit": "Cups"
+                },
+                {
+                    "name": "Tomatoes, chopped",
+                    "quantity": 1,
+                    "unit": "Cups"
+                },
+                {
+                    "name": "Cheddar",
+                    "quantity": 1,
+                    "unit": "Cups"
+                },
+                {
+                    "name": "Shredded Monterey Jack",
+                    "quantity": 1,
+                    "unit": "Cups"
+                },
+                {
+                    "name": "Vegetable Oil",
+                    "quantity": 1,
+                    "unit": "Tbsp"
+                },
+                {
+                    "name": "Pepper",
+                    "quantity": 1,
+                    "unit": "Tbsp"
+                },
+                {
+                    "name": "Salt",
+                    "quantity": 1,
+                    "unit": "Tbsp"
+                },
+                {
+                    "name": "Hot sauce",
+                    "quantity": 1,
+                    "unit": "Tbsp"
+                }
+            ],
+            "method":
+                "<p>In a skillet over medium heat, add ground beef, chili powder, paprika and cumin. Cook, breaking the meat up with a wooden spoon, until the beef is no longer pink, about 5 minutes. Drain fat, then season with salt and pepper.</p><p>Cut small flour tortillas: Stack four large flour tortillas and place a tostada shell in the center. Using a paring knife, trace around the edges of the shell to cut four smaller flour tortilla rounds. Set aside.</p><p>Build crunchwraps: With remaining large flour tortillas, add a scoop of ground beef to the center of each tortilla, leaving a generous amount of space around the edges for folding. Drizzle cheese sauce over each, then place tostada shells on top. Spread sour cream over each shell, then top with lettuce, tomato, and cheeses.</p><p>Place the smaller flour tortilla cutouts in the center of each crunchwrap then tightly fold the edges of the large tortilla towards the center, creating pleats. After wrapping, quickly invert crunchwraps so the pleats are on the bottom and they stay together.</p><p>Cook crunchwraps: In a medium nonstick pan over medium heat, heat a very thin layer of vegetable oil. Working one at a time, add crunchwrap seam-side down and cook until tortilla is golden on the bottom, 3 to 5 minutes. Flip crunchwrap and cook until the other side is golden, 3 to 5 minutes more.</p><p>Repeat with remaining crunchwraps and serve warm with hot sauce.</p>"
+        },
+        {
+            "title": "Sambhar",
+            "image": "https://thumbs.dreamstime.com/z/south-indian-dish-sambar-sambhar-sambaaru-sri-lankan-tamil-cuisines-made-pigeon-peas-variant-32061237.jpg",
+            "ingredients": [
+                {
+                    "name": "Oil",
+                    "quantity": 10,
+                    "unit": "ml"
+                },
+                {
+                    "name": "Mustard",
+                    "quantity": 1,
+                    "unit": "Tsp"
+                },
+                {
+                    "name": "Curry leaves",
+                    "quantity": 5,
+                    "unit": null
+                },
+                {
+                    "name": "Onion",
+                    "quantity": 2,
+                    "unit": null
+                },
+                {
+                    "name": "Tomato",
+                    "quantity": 1,
+                    "unit": null
+                },
+                {
+                    "name": "Toor Dal",
+                    "quantity": 1,
+                    "unit": "Cup"
+                },
+                {
+                    "name": "Tamarind",
+                    "quantity": 100,
+                    "unit": "grams"
+                },
+                {
+                    "name": "Sambhar powder",
+                    "quantity": 2,
+                    "unit": "Tsp"
+                }
+            ],
+            "method":
+            "<p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p><p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p><p>It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p>"
+        },
+        {
+            "title": "Chicken Curry",
+            "image": "https://d2droglu4qf8st.cloudfront.net/2016/03/269040/recipe-21051_Large400_ID-1523870.jpg?v=1523870",
+            "ingredients": [
+                {
+                    "name": "Oil",
+                    "quantity": 10,
+                    "unit": "ml"
+                },
+                {
+                    "name": "Chicken",
+                    "quantity": 1,
+                    "unit": "Kgs"
+                },
+                {
+                    "name": "Curry leaves",
+                    "quantity": 5,
+                    "unit": null
+                },
+                {
+                    "name": "Onion",
+                    "quantity": 2,
+                    "unit": null
+                },
+                {
+                    "name": "Tomato",
+                    "quantity": 1,
+                    "unit": null
+                },
+                {
+                    "name": "Corainder powder",
+                    "quantity": 1,
+                    "unit": "Cup"
+                },
+                {
+                    "name": "Sambhar powder",
+                    "quantity": 2,
+                    "unit": "Tsp"
+                }
+            ],
+            "method":
+            "<p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p><p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p><p>It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p>"
+        },
+        {
+            "title": "Rasam",
+            "image": "http://rasam.co.in/wp-content/uploads/2011/12/GingerRasam.jpg",
+            "ingredients": [
+                {
+                    "name": "Oil",
+                    "quantity": 10,
+                    "unit": "ml"
+                },
+                {
+                    "name": "Mustard",
+                    "quantity": 1,
+                    "unit": "Tsp"
+                },
+                {
+                    "name": "Curry leaves",
+                    "quantity": 5,
+                    "unit": null
+                },
+                {
+                    "name": "Onion",
+                    "quantity": 2,
+                    "unit": null
+                },
+                {
+                    "name": "Tomato",
+                    "quantity": 1,
+                    "unit": null
+                },
+                {
+                    "name": "Toor Dal",
+                    "quantity": 1,
+                    "unit": "Cup"
+                },
+                {
+                    "name": "Tamarind",
+                    "quantity": 100,
+                    "unit": "grams"
+                },
+                {
+                    "name": "Rasam powder",
+                    "quantity": 2,
+                    "unit": "Tsp"
+                }
+            ],
+            "method":
+            "<p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p><p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p><p>It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p>"
+        }
+    ]
+}
